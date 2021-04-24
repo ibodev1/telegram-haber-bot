@@ -6,4 +6,4 @@ def sample_responses(input_text):
     if user_message in ("deneme", "sa"):
         return "As"
 
-    return "nediyon"
+    return "Yanlış veya bilinmeyen giriş yaptınız."
