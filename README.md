@@ -1,7 +1,15 @@
 # telegram-haber-bot
 Python ile yapılmış bir haber botudur.
 
-# Nasıl Çalıştıracaz?
+# Bir Kaç Tane Ekran Görüntüsü
+
+![/yardim](https://i.hizliresim.com/cjroq4v.PNG)
+
+![/sonhaber](https://i.hizliresim.com/otkrodb.PNG)
+
+![/tumu](https://i.hizliresim.com/otkrodb.PNG)
+
+# Nasıl Çlıştırılır?
 constans.py dosyasındakı API_KEY bölümüne kendi botunuzun api kodunu girin.
 
 # Veriler Nerden Çekiliyor?
