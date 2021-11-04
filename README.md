@@ -7,7 +7,7 @@ Python ile yapılmış bir haber botudur.
 
 ![/sonhaber](https://i.hizliresim.com/otkrodb.PNG)
 
-![/tumu](https://i.hizliresim.com/otkrodb.PNG)
+![/tumu](https://i.hizliresim.com/3w5auvr.PNG)
 
 # Nasıl Çlıştırılır?
 constans.py dosyasındakı API_KEY bölümüne kendi botunuzun api kodunu girin.
