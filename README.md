@@ -9,8 +9,13 @@ Python ile yapılmış bir haber botudur.
 
 ![/tumu](https://i.hizliresim.com/3w5auvr.PNG)
 
-# Nasıl Çlıştırılır?
+# Nasıl Çalıştırılır?
 constans.py dosyasındakı API_KEY bölümüne kendi botunuzun api kodunu girin.
+Daha sonra cmd ye
+```bash
+py main.py
+```
+yazıp "Bot Çalışıyor.." çıktısını alırsanız botunuz çalışıyordur.
 
 # Veriler Nerden Çekiliyor?
 Cumhuriyet haberin gundem sayfasından.
