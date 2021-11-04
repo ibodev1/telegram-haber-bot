@@ -11,11 +11,11 @@ Python ile yapılmış bir haber botudur.
 
 # Nasıl Çalıştırılır?
 constans.py dosyasındakı API_KEY bölümüne kendi botunuzun api kodunu girin.
-Daha sonra cmd ye
+Daha sonra cmd ye girip main.py in bulunduğu yere gidin ve aşağıdaki kodu girin.
 ```bash
 py main.py
 ```
-yazıp "Bot Çalışıyor.." çıktısını alırsanız botunuz çalışıyordur.
+"Bot Çalışıyor.." çıktısını alırsanız botunuz çalışıyordur.
 
 # Veriler Nerden Çekiliyor?
 Cumhuriyet haberin gundem sayfasından.
